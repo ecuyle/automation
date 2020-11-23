@@ -30,7 +30,7 @@ def main():
         
         sensor = Sensor(sensorType, pin)
         heater = Heater(relayPin)
-        thermostat = Thermostat(heater, sensor, minTemp=66.0, maxTemp=68.0, log_file='/home/pi/Code/automation_sandbox/temperature_controller/sensor_data.json')
+        thermostat = Thermostat(heater, sensor, minTemp=66.0, maxTemp=68.0, log_file='/home/pi/Code/automation/projects/temperature_controller/sensor_data.json')
         thermostat.start()
     except KeyboardInterrupt:
         thermostat.stop()
