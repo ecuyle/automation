@@ -10,7 +10,6 @@ from utils.utils import convert_celsius_to_fahrenheit
 class Sensor:
     def __init__(self, sensorType, pin):
         self.sensorType = sensorType
-        print(pin)
         print('Initializing sensor on pin ' + str(pin))
         self.pin = pin
 
