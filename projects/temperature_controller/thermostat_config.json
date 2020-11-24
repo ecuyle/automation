@@ -1,0 +1,8 @@
+{
+    "sensor": 2302,
+    "sensor_pin": 17,
+    "relay_pin": 27,
+    "min_temp": 68.0,
+    "max_temp": 70.0,
+    "log_file": "sensor_data.json"
+}

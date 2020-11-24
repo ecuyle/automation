@@ -1,36 +1,52 @@
 #!/usr/bin/python
+import os.path
 import Adafruit_DHT
 import sys
-import time
-import datetime
-import json
 import RPi.GPIO as GPIO
+import json
 
 sys.path.append('.')
 
 from hardware.heater import Heater
 from hardware.temperature_humidity_sensor import Sensor
 from hardware.thermostat import Thermostat
+from utils.utils import write_json
+
+def initialize_log_file_if_needed(log_file):
+    if os.path.isfile(log_file):
+        return
+
+    write_json({ data: [] }, log_file)
 
 def main():
     try:
         sensor_args = {
-            '11': Adafruit_DHT.DHT11,
-            '22': Adafruit_DHT.DHT22,
-            '2302': Adafruit_DHT.AM2302
+            11: Adafruit_DHT.DHT11,
+            22: Adafruit_DHT.DHT22,
+            2302: Adafruit_DHT.AM2302
         }
-        if len(sys.argv) == 4 and sys.argv[1] in sensor_args:
-            sensorType = sensor_args[sys.argv[1]]
-            pin = sys.argv[2]
-            relayPin = sys.argv[3]
-        else:
-            print('Usage: sudo ./Adafruit_DHT.py [11|22|2302] <GPIO pin number>')
-            print('Example: sudo ./Adafruit_DHT.py 2302 4 - Read from an AM2302 connected to GPIO pin #4')
-            sys.exit(1)
+
+        with open('thermostat_config.json') as config_file:
+            config = json.load(config_file)
+            print(config)
+            sensor_type = config.get('sensor')
+            sensor_pin = config.get('sensor_pin')
+            relay_pin = config.get('relay_pin')
+            min_temp = config.get('min_temp')
+            max_temp = config.get('max_temp')
+            log_file = config.get('log_file')
         
-        sensor = Sensor(sensorType, pin)
-        heater = Heater(relayPin)
-        thermostat = Thermostat(heater, sensor, minTemp=66.0, maxTemp=68.0, log_file='/home/pi/Code/automation/projects/temperature_controller/sensor_data.json')
+        sensor_value = sensor_args.get(sensor_type)
+        if sensor_value is None:
+            print('Sensor type {0} is not supported. Values must be [11|22|2302]'.format(sensor_type))
+            sys.exit(1)
+
+        sensor = Sensor(sensor_value, sensor_pin)
+        heater = Heater(relay_pin)
+
+        initialize_log_file_if_needed(log_file)
+
+        thermostat = Thermostat(heater, sensor, min_temp=min_temp, max_temp=max_temp, log_file=log_file)
         thermostat.start()
     except KeyboardInterrupt:
         thermostat.stop()

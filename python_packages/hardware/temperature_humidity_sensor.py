@@ -10,7 +10,8 @@ from utils.utils import convert_celsius_to_fahrenheit
 class Sensor:
     def __init__(self, sensorType, pin):
         self.sensorType = sensorType
-        print('Initializing sensor on pin' + pin)
+        print(pin)
+        print('Initializing sensor on pin ' + str(pin))
         self.pin = pin
 
     def get_humidity_and_temperature(self):

@@ -2,7 +2,7 @@ from hardware.relay import Relay
 
 class Heater:
     def __init__(self, relayPin):
-        print('Initializing heater on pin ' + relayPin)
+        print('Initializing heater on pin ' + str(relayPin))
         self.is_on = False
         self.relay = Relay(relayPin)
         self.turn_heater_on()

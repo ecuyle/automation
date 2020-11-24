@@ -1,0 +1,1684 @@
+{
+    "data": [
+        {
+            "humidity": 64.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:26:08.478413",
+            "timestamp_seconds": 1606173968.478536
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:27:09.062225",
+            "timestamp_seconds": 1606174029.0622628
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:28:09.642131",
+            "timestamp_seconds": 1606174089.6421726
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:29:10.227704",
+            "timestamp_seconds": 1606174150.2277498
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:30:10.762391",
+            "timestamp_seconds": 1606174210.7624426
+        },
+        {
+            "humidity": 63.5,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:32:11.935580",
+            "timestamp_seconds": 1606174331.9356194
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:33:12.521088",
+            "timestamp_seconds": 1606174392.5211525
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:34:13.106741",
+            "timestamp_seconds": 1606174453.1068199
+        },
+        {
+            "humidity": 63.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:35:13.692441",
+            "timestamp_seconds": 1606174513.6924841
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:36:14.278642",
+            "timestamp_seconds": 1606174574.2787106
+        },
+        {
+            "humidity": 63.599998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:41:00.861993",
+            "timestamp_seconds": 1606174860.8621173
+        },
+        {
+            "humidity": 63.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:42:01.448661",
+            "timestamp_seconds": 1606174921.448717
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:43:04.531225",
+            "timestamp_seconds": 1606174984.5313034
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:44:05.117761",
+            "timestamp_seconds": 1606175045.1178339
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:45:05.704069",
+            "timestamp_seconds": 1606175105.7041473
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:47:06.885304",
+            "timestamp_seconds": 1606175226.8853786
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:48:07.471792",
+            "timestamp_seconds": 1606175287.4718666
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:49:08.058091",
+            "timestamp_seconds": 1606175348.0581672
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:50:08.644455",
+            "timestamp_seconds": 1606175408.644529
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 15:51:09.230776",
+            "timestamp_seconds": 1606175469.2308505
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:53:10.399700",
+            "timestamp_seconds": 1606175590.399767
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:54:10.985814",
+            "timestamp_seconds": 1606175650.9858782
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:55:11.572157",
+            "timestamp_seconds": 1606175711.5722218
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:56:12.158411",
+            "timestamp_seconds": 1606175772.158483
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:57:12.744612",
+            "timestamp_seconds": 1606175832.7446911
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 15:59:13.929503",
+            "timestamp_seconds": 1606175953.9295814
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 16:00:14.515670",
+            "timestamp_seconds": 1606176014.5157485
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 16:01:15.102290",
+            "timestamp_seconds": 1606176075.1023657
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 16:02:18.216761",
+            "timestamp_seconds": 1606176138.216843
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:03:18.803221",
+            "timestamp_seconds": 1606176198.8032863
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.98000068664551,
+            "temperature_raw": 21.100000381469727,
+            "timestamp_readable": "2020-11-23 16:05:19.990619",
+            "timestamp_seconds": 1606176319.9906874
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.8,
+            "temperature_raw": 21.0,
+            "timestamp_readable": "2020-11-23 16:06:20.577221",
+            "timestamp_seconds": 1606176380.5772927
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:07:21.163593",
+            "timestamp_seconds": 1606176441.1636543
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:08:26.805686",
+            "timestamp_seconds": 1606176506.8057501
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:09:27.392217",
+            "timestamp_seconds": 1606176567.3922834
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:11:28.582134",
+            "timestamp_seconds": 1606176688.5821984
+        },
+        {
+            "humidity": 63.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:12:29.168491",
+            "timestamp_seconds": 1606176749.168557
+        },
+        {
+            "humidity": 63.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:13:29.754855",
+            "timestamp_seconds": 1606176809.7549186
+        },
+        {
+            "humidity": 63.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:14:30.341230",
+            "timestamp_seconds": 1606176870.3413076
+        },
+        {
+            "humidity": 63.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:15:33.455521",
+            "timestamp_seconds": 1606176933.455588
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:17:37.174482",
+            "timestamp_seconds": 1606177057.1745474
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:18:37.713207",
+            "timestamp_seconds": 1606177117.7132843
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:19:40.827425",
+            "timestamp_seconds": 1606177180.8275025
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:20:41.413673",
+            "timestamp_seconds": 1606177241.4137514
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:21:41.999893",
+            "timestamp_seconds": 1606177301.9999752
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:23:43.193569",
+            "timestamp_seconds": 1606177423.1936355
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:24:43.779773",
+            "timestamp_seconds": 1606177483.779854
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:25:44.366022",
+            "timestamp_seconds": 1606177544.3660915
+        },
+        {
+            "humidity": 63.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:26:44.952530",
+            "timestamp_seconds": 1606177604.9525938
+        },
+        {
+            "humidity": 63.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:27:45.538929",
+            "timestamp_seconds": 1606177665.5390108
+        },
+        {
+            "humidity": 62.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:29:46.735021",
+            "timestamp_seconds": 1606177786.7350879
+        },
+        {
+            "humidity": 62.5,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:30:47.263028",
+            "timestamp_seconds": 1606177847.263111
+        },
+        {
+            "humidity": 62.5,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:31:47.792998",
+            "timestamp_seconds": 1606177907.7930613
+        },
+        {
+            "humidity": 62.599998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:32:48.379199",
+            "timestamp_seconds": 1606177968.3792653
+        },
+        {
+            "humidity": 62.29999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:33:48.965515",
+            "timestamp_seconds": 1606178028.9656007
+        },
+        {
+            "humidity": 61.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:35:50.163878",
+            "timestamp_seconds": 1606178150.1639507
+        },
+        {
+            "humidity": 62.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:36:50.750388",
+            "timestamp_seconds": 1606178210.7504673
+        },
+        {
+            "humidity": 62.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.6199993133545,
+            "temperature_raw": 20.899999618530273,
+            "timestamp_readable": "2020-11-23 16:37:51.336694",
+            "timestamp_seconds": 1606178271.33676
+        },
+        {
+            "humidity": 62.0,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:38:51.923228",
+            "timestamp_seconds": 1606178331.9232886
+        },
+        {
+            "humidity": 62.0,
+            "is_heater_on": false,
+            "temperature_f": 69.43999862670898,
+            "temperature_raw": 20.799999237060547,
+            "timestamp_readable": "2020-11-23 16:39:52.509560",
+            "timestamp_seconds": 1606178392.5096447
+        },
+        {
+            "humidity": 61.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:41:53.668034",
+            "timestamp_seconds": 1606178513.6680775
+        },
+        {
+            "humidity": 61.599998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:42:54.254284",
+            "timestamp_seconds": 1606178574.2543657
+        },
+        {
+            "humidity": 61.5,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:43:54.840762",
+            "timestamp_seconds": 1606178634.8408318
+        },
+        {
+            "humidity": 61.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:44:55.427148",
+            "timestamp_seconds": 1606178695.427236
+        },
+        {
+            "humidity": 61.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:45:56.013580",
+            "timestamp_seconds": 1606178756.013647
+        },
+        {
+            "humidity": 61.0,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:47:57.216101",
+            "timestamp_seconds": 1606178877.2161777
+        },
+        {
+            "humidity": 60.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.26000137329102,
+            "temperature_raw": 20.700000762939453,
+            "timestamp_readable": "2020-11-23 16:48:57.802600",
+            "timestamp_seconds": 1606178937.8026783
+        },
+        {
+            "humidity": 60.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:49:58.388895",
+            "timestamp_seconds": 1606178998.388962
+        },
+        {
+            "humidity": 60.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:50:58.975221",
+            "timestamp_seconds": 1606179058.9752922
+        },
+        {
+            "humidity": 60.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:51:59.561682",
+            "timestamp_seconds": 1606179119.5617473
+        },
+        {
+            "humidity": 60.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:54:05.772674",
+            "timestamp_seconds": 1606179245.7727242
+        },
+        {
+            "humidity": 60.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:55:06.358182",
+            "timestamp_seconds": 1606179306.3582647
+        },
+        {
+            "humidity": 61.0,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:56:06.923342",
+            "timestamp_seconds": 1606179366.9234188
+        },
+        {
+            "humidity": 60.70000076293945,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:57:07.509881",
+            "timestamp_seconds": 1606179427.5099635
+        },
+        {
+            "humidity": 60.599998474121094,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 16:58:08.086873",
+            "timestamp_seconds": 1606179488.086949
+        },
+        {
+            "humidity": 61.0,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:00:09.250112",
+            "timestamp_seconds": 1606179609.2501893
+        },
+        {
+            "humidity": 61.20000076293945,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:01:09.836474",
+            "timestamp_seconds": 1606179669.836553
+        },
+        {
+            "humidity": 61.29999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:02:10.412490",
+            "timestamp_seconds": 1606179730.4125643
+        },
+        {
+            "humidity": 61.5,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:03:10.943173",
+            "timestamp_seconds": 1606179790.9432461
+        },
+        {
+            "humidity": 61.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:04:11.529514",
+            "timestamp_seconds": 1606179851.52959
+        },
+        {
+            "humidity": 61.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:06:15.266693",
+            "timestamp_seconds": 1606179975.2667599
+        },
+        {
+            "humidity": 61.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:07:15.853104",
+            "timestamp_seconds": 1606180035.8531644
+        },
+        {
+            "humidity": 61.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:08:16.383181",
+            "timestamp_seconds": 1606180096.3832445
+        },
+        {
+            "humidity": 62.0,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 17:09:16.969541",
+            "timestamp_seconds": 1606180156.9696019
+        },
+        {
+            "humidity": 62.0,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:10:17.555976",
+            "timestamp_seconds": 1606180217.5560484
+        },
+        {
+            "humidity": 62.0,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:12:18.767689",
+            "timestamp_seconds": 1606180338.7677555
+        },
+        {
+            "humidity": 62.20000076293945,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:13:19.354157",
+            "timestamp_seconds": 1606180399.3542247
+        },
+        {
+            "humidity": 62.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 17:14:19.940566",
+            "timestamp_seconds": 1606180459.9406323
+        },
+        {
+            "humidity": 62.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 17:15:20.527037",
+            "timestamp_seconds": 1606180520.5270996
+        },
+        {
+            "humidity": 62.20000076293945,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 17:16:21.113441",
+            "timestamp_seconds": 1606180581.11351
+        },
+        {
+            "humidity": 62.5,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:18:22.327113",
+            "timestamp_seconds": 1606180702.327214
+        },
+        {
+            "humidity": 62.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 17:19:22.913593",
+            "timestamp_seconds": 1606180762.9136534
+        },
+        {
+            "humidity": 62.599998474121094,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:20:23.499836",
+            "timestamp_seconds": 1606180823.4999046
+        },
+        {
+            "humidity": 62.79999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:21:24.086169",
+            "timestamp_seconds": 1606180884.08625
+        },
+        {
+            "humidity": 63.099998474121094,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:22:24.672705",
+            "timestamp_seconds": 1606180944.672772
+        },
+        {
+            "humidity": 63.29999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:24:25.886875",
+            "timestamp_seconds": 1606181065.886939
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 17:25:26.473263",
+            "timestamp_seconds": 1606181126.4733334
+        },
+        {
+            "humidity": 63.29999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:26:27.059661",
+            "timestamp_seconds": 1606181187.0597563
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 17:27:27.646171",
+            "timestamp_seconds": 1606181247.6462429
+        },
+        {
+            "humidity": 63.5,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:28:28.232717",
+            "timestamp_seconds": 1606181308.2327616
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:30:29.427978",
+            "timestamp_seconds": 1606181429.428028
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:31:30.014210",
+            "timestamp_seconds": 1606181490.0142555
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:32:30.600396",
+            "timestamp_seconds": 1606181550.6004415
+        },
+        {
+            "humidity": 63.29999923706055,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:33:31.186563",
+            "timestamp_seconds": 1606181611.1866124
+        },
+        {
+            "humidity": 63.400001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:34:31.772861",
+            "timestamp_seconds": 1606181671.7729056
+        },
+        {
+            "humidity": 63.900001525878906,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:36:32.969048",
+            "timestamp_seconds": 1606181792.969097
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 69.0800006866455,
+            "temperature_raw": 20.600000381469727,
+            "timestamp_readable": "2020-11-23 17:37:33.555045",
+            "timestamp_seconds": 1606181853.5550942
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:38:34.141154",
+            "timestamp_seconds": 1606181914.141195
+        },
+        {
+            "humidity": 64.0,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:39:34.727232",
+            "timestamp_seconds": 1606181974.7272832
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:40:35.312584",
+            "timestamp_seconds": 1606182035.3126478
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:42:36.509798",
+            "timestamp_seconds": 1606182156.5098414
+        },
+        {
+            "humidity": 64.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:43:37.095795",
+            "timestamp_seconds": 1606182217.0958378
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:44:37.681914",
+            "timestamp_seconds": 1606182277.6819558
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:45:38.268051",
+            "timestamp_seconds": 1606182338.2681093
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:46:38.813106",
+            "timestamp_seconds": 1606182398.813154
+        },
+        {
+            "humidity": 64.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:48:40.016610",
+            "timestamp_seconds": 1606182520.0166676
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:49:40.563138",
+            "timestamp_seconds": 1606182580.563187
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:50:41.133141",
+            "timestamp_seconds": 1606182641.133185
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:51:41.719357",
+            "timestamp_seconds": 1606182701.7194014
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:52:42.305617",
+            "timestamp_seconds": 1606182762.3056612
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:54:43.505242",
+            "timestamp_seconds": 1606182883.5052872
+        },
+        {
+            "humidity": 64.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:55:44.090625",
+            "timestamp_seconds": 1606182944.090663
+        },
+        {
+            "humidity": 64.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:56:44.675985",
+            "timestamp_seconds": 1606183004.6760256
+        },
+        {
+            "humidity": 64.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 17:57:45.261380",
+            "timestamp_seconds": 1606183065.2614253
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 17:58:45.846774",
+            "timestamp_seconds": 1606183125.8468156
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:00:47.045577",
+            "timestamp_seconds": 1606183247.0456212
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.9,
+            "temperature_raw": 20.5,
+            "timestamp_readable": "2020-11-23 18:01:47.630951",
+            "timestamp_seconds": 1606183307.630991
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:02:50.744195",
+            "timestamp_seconds": 1606183370.7442617
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:03:53.857545",
+            "timestamp_seconds": 1606183433.8575814
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:04:54.442939",
+            "timestamp_seconds": 1606183494.442993
+        },
+        {
+            "humidity": 64.5,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:06:55.643234",
+            "timestamp_seconds": 1606183615.6433048
+        },
+        {
+            "humidity": 64.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:07:58.756651",
+            "timestamp_seconds": 1606183678.7567286
+        },
+        {
+            "humidity": 64.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:08:59.342984",
+            "timestamp_seconds": 1606183739.3430693
+        },
+        {
+            "humidity": 64.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:09:59.929285",
+            "timestamp_seconds": 1606183799.9293585
+        },
+        {
+            "humidity": 64.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:11:00.515548",
+            "timestamp_seconds": 1606183860.515616
+        },
+        {
+            "humidity": 64.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:13:01.743215",
+            "timestamp_seconds": 1606183981.7432628
+        },
+        {
+            "humidity": 64.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:14:02.333092",
+            "timestamp_seconds": 1606184042.333137
+        },
+        {
+            "humidity": 64.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:15:02.893121",
+            "timestamp_seconds": 1606184102.8932028
+        },
+        {
+            "humidity": 64.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:16:03.487651",
+            "timestamp_seconds": 1606184163.4877176
+        },
+        {
+            "humidity": 64.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:17:04.074040",
+            "timestamp_seconds": 1606184224.0740993
+        },
+        {
+            "humidity": 64.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:19:05.309841",
+            "timestamp_seconds": 1606184345.3099086
+        },
+        {
+            "humidity": 64.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:20:05.891452",
+            "timestamp_seconds": 1606184405.8915095
+        },
+        {
+            "humidity": 64.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:21:09.004798",
+            "timestamp_seconds": 1606184469.0048625
+        },
+        {
+            "humidity": 64.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:22:09.591132",
+            "timestamp_seconds": 1606184529.591205
+        },
+        {
+            "humidity": 64.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:23:10.177456",
+            "timestamp_seconds": 1606184590.1775208
+        },
+        {
+            "humidity": 64.9000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:25:11.415003",
+            "timestamp_seconds": 1606184711.4150722
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.71999931335449,
+            "temperature_raw": 20.399999618530273,
+            "timestamp_readable": "2020-11-23 18:26:12.001504",
+            "timestamp_seconds": 1606184772.001545
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:27:15.115550",
+            "timestamp_seconds": 1606184835.1156278
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:28:20.761319",
+            "timestamp_seconds": 1606184900.7613914
+        },
+        {
+            "humidity": 64.9000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:29:21.347619",
+            "timestamp_seconds": 1606184961.3476844
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:31:22.530309",
+            "timestamp_seconds": 1606185082.530375
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:32:23.116635",
+            "timestamp_seconds": 1606185143.1167142
+        },
+        {
+            "humidity": 65.0,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:33:23.703104",
+            "timestamp_seconds": 1606185203.703175
+        },
+        {
+            "humidity": 65.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.53999862670898,
+            "temperature_raw": 20.299999237060547,
+            "timestamp_readable": "2020-11-23 18:34:24.289513",
+            "timestamp_seconds": 1606185264.2895885
+        },
+        {
+            "humidity": 65.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:35:24.875999",
+            "timestamp_seconds": 1606185324.8760774
+        },
+        {
+            "humidity": 65.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:37:26.117698",
+            "timestamp_seconds": 1606185446.1177776
+        },
+        {
+            "humidity": 65.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:38:26.704059",
+            "timestamp_seconds": 1606185506.7041283
+        },
+        {
+            "humidity": 65.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:39:27.290320",
+            "timestamp_seconds": 1606185567.2904017
+        },
+        {
+            "humidity": 65.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:40:27.876673",
+            "timestamp_seconds": 1606185627.8767478
+        },
+        {
+            "humidity": 65.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:41:28.463079",
+            "timestamp_seconds": 1606185688.4631474
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:43:32.235550",
+            "timestamp_seconds": 1606185812.2356262
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:44:32.822057",
+            "timestamp_seconds": 1606185872.8221188
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:45:33.373682",
+            "timestamp_seconds": 1606185933.373749
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:46:33.960046",
+            "timestamp_seconds": 1606185993.9601111
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:47:34.546349",
+            "timestamp_seconds": 1606186054.5464108
+        },
+        {
+            "humidity": 65.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:49:35.785340",
+            "timestamp_seconds": 1606186175.785419
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:50:36.371847",
+            "timestamp_seconds": 1606186236.3719215
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:51:36.957461",
+            "timestamp_seconds": 1606186296.9575417
+        },
+        {
+            "humidity": 65.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:52:37.493048",
+            "timestamp_seconds": 1606186357.4931324
+        },
+        {
+            "humidity": 65.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:53:38.079450",
+            "timestamp_seconds": 1606186418.0795186
+        },
+        {
+            "humidity": 65.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:55:41.859170",
+            "timestamp_seconds": 1606186541.8592484
+        },
+        {
+            "humidity": 65.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:56:42.444882",
+            "timestamp_seconds": 1606186602.4449584
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.36000137329101,
+            "temperature_raw": 20.200000762939453,
+            "timestamp_readable": "2020-11-23 18:57:43.014490",
+            "timestamp_seconds": 1606186663.0145643
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:58:46.132579",
+            "timestamp_seconds": 1606186726.1326525
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 18:59:46.719035",
+            "timestamp_seconds": 1606186786.7191157
+        },
+        {
+            "humidity": 65.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:01:50.498446",
+            "timestamp_seconds": 1606186910.498518
+        },
+        {
+            "humidity": 65.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:02:51.084811",
+            "timestamp_seconds": 1606186971.084887
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:03:51.671285",
+            "timestamp_seconds": 1606187031.6713705
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:04:52.257781",
+            "timestamp_seconds": 1606187092.257862
+        },
+        {
+            "humidity": 65.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:05:52.844261",
+            "timestamp_seconds": 1606187152.8443277
+        },
+        {
+            "humidity": 65.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:07:54.076560",
+            "timestamp_seconds": 1606187274.076629
+        },
+        {
+            "humidity": 65.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:08:54.663012",
+            "timestamp_seconds": 1606187334.663082
+        },
+        {
+            "humidity": 65.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:09:55.249343",
+            "timestamp_seconds": 1606187395.2494133
+        },
+        {
+            "humidity": 65.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:10:55.835715",
+            "timestamp_seconds": 1606187455.8357906
+        },
+        {
+            "humidity": 65.9000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:11:56.422248",
+            "timestamp_seconds": 1606187516.422316
+        },
+        {
+            "humidity": 66.0,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:13:57.676000",
+            "timestamp_seconds": 1606187637.6760652
+        },
+        {
+            "humidity": 66.0,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:14:58.262527",
+            "timestamp_seconds": 1606187698.2625947
+        },
+        {
+            "humidity": 66.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:15:58.848832",
+            "timestamp_seconds": 1606187758.8489008
+        },
+        {
+            "humidity": 66.0999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:16:59.435120",
+            "timestamp_seconds": 1606187819.4351876
+        },
+        {
+            "humidity": 66.19999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:18:00.021569",
+            "timestamp_seconds": 1606187880.0216374
+        },
+        {
+            "humidity": 66.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:20:06.334537",
+            "timestamp_seconds": 1606188006.3346202
+        },
+        {
+            "humidity": 66.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:21:06.920980",
+            "timestamp_seconds": 1606188066.9210463
+        },
+        {
+            "humidity": 66.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:22:07.507355",
+            "timestamp_seconds": 1606188127.507424
+        },
+        {
+            "humidity": 66.30000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:23:08.093729",
+            "timestamp_seconds": 1606188188.0938141
+        },
+        {
+            "humidity": 66.4000015258789,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:24:08.680072",
+            "timestamp_seconds": 1606188248.6801379
+        },
+        {
+            "humidity": 66.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:26:09.927695",
+            "timestamp_seconds": 1606188369.927761
+        },
+        {
+            "humidity": 66.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:27:10.514049",
+            "timestamp_seconds": 1606188430.5141113
+        },
+        {
+            "humidity": 66.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:28:11.100337",
+            "timestamp_seconds": 1606188491.100409
+        },
+        {
+            "humidity": 66.5,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:29:11.686669",
+            "timestamp_seconds": 1606188551.686751
+        },
+        {
+            "humidity": 66.5,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:30:12.273049",
+            "timestamp_seconds": 1606188612.2731202
+        },
+        {
+            "humidity": 66.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:32:13.525023",
+            "timestamp_seconds": 1606188733.5250764
+        },
+        {
+            "humidity": 66.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:33:14.111304",
+            "timestamp_seconds": 1606188794.111373
+        },
+        {
+            "humidity": 66.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:34:14.697559",
+            "timestamp_seconds": 1606188854.6976266
+        },
+        {
+            "humidity": 66.5999984741211,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:35:15.283841",
+            "timestamp_seconds": 1606188915.2839253
+        },
+        {
+            "humidity": 66.69999694824219,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:36:15.870269",
+            "timestamp_seconds": 1606188975.870331
+        },
+        {
+            "humidity": 66.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:38:17.113585",
+            "timestamp_seconds": 1606189097.1136594
+        },
+        {
+            "humidity": 66.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:39:20.227997",
+            "timestamp_seconds": 1606189160.228064
+        },
+        {
+            "humidity": 66.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.18000068664551,
+            "temperature_raw": 20.100000381469727,
+            "timestamp_readable": "2020-11-23 19:40:20.814398",
+            "timestamp_seconds": 1606189220.8144598
+        },
+        {
+            "humidity": 66.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:41:21.400717",
+            "timestamp_seconds": 1606189281.4007888
+        },
+        {
+            "humidity": 66.80000305175781,
+            "is_heater_on": false,
+            "temperature_f": 68.0,
+            "temperature_raw": 20.0,
+            "timestamp_readable": "2020-11-23 19:42:21.987090",
+            "timestamp_seconds": 1606189341.9871826
+        }
+    ]
+}
