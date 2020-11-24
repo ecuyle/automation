@@ -3,7 +3,6 @@ import time
 
 class Relay:
     def __init__(self, relayPin=27):
-        GPIO.cleanup()
         GPIO.setmode(GPIO.BCM)
         
         # pin used by relay switch
