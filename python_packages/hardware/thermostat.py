@@ -7,6 +7,9 @@ sys.path.append('.')
 from utils.utils import write_json, get_current_hour
 
 class Thermostat:
+    DEFAULT_CACHE_SIZE = 5
+    DEFAULT_POLLING_INTERVAL = 60
+
     def __init__(self, heater, sensor, min_temp, max_temp, options):
         self.heater = heater
         self.sensor = sensor
@@ -14,8 +17,8 @@ class Thermostat:
         self.max_temp = max_temp
         self.active_hours = options.get("active_hours")
         self.log_file = options.get("log_file")
-        self.cache_size = options.get("cache_size") or 5
-        self.polling_interval = options.get("polling_interval") or 60
+        self.cache_size = options.get("cache_size") or self.DEFAULT_CACHE_SIZE
+        self.polling_interval = options.get("polling_interval") or self.DEFAULT_POLLING_INTERVAL
         self.is_started = False
         self.cache = []
 
@@ -36,7 +39,7 @@ class Thermostat:
         return current_tempf < self.min_temp and not self.heater.is_on and self.is_in_active_hours()
 
     def should_stop_heater(self, current_tempf):
-        return (current_tempf >= self.max_temp and self.heater.is_on) or not self.is_in_active_hours()
+        return self.heater.is_on and (current_tempf >= self.max_temp or not self.is_in_active_hours())
 
     def start(self):
         print('Starting thermostat')
@@ -60,11 +63,13 @@ class Thermostat:
             sensor_data['is_heater_on'] = self.heater.is_on
 
             if (len(self.cache) == self.cache_size and self.log_file is not None):
+                # todo: use util to get json config
                 with open(self.log_file) as json_file:
                     data = json.load(json_file)
+                    json_file.close()
                     data['data'] = data['data'] + self.cache
         
-                write_json(data)
+                write_json(data, self.log_file)
                 self.cache = []
             elif (self.log_file is not None):
                 self.cache.append(sensor_data)
@@ -75,4 +80,14 @@ class Thermostat:
     def stop(self):
         print('Stopping thermostat.')
         self.is_started = False
+        self.heater.turn_heater_off()
+
+    def update_options(self, options):
+        print('Updating thermostat options')
+        self.active_hours = options.get('active_hours')
+        self.cache_size = options.get('cache_size') or self.DEFAULT_CACHE_SIZE
+        self.log_file = options.get('log_file')
+        self.max_temp = options.get('max_temp')
+        self.min_temp = options.get('min_temp')
+        self.polling_interval = options.get('polling_interval') or self.DEFAULT_POLLING_INTERVAL
         

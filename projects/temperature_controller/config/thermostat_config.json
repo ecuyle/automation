@@ -4,6 +4,6 @@
     "relay_pin": 27,
     "min_temp": 70.0,
     "max_temp": 72.0,
-    "active_hours": [[0, 1], [7, 9], [20, 22]],
+    "active_hours": [[2, 3], [7, 9], [20, 24]],
     "log_file": "sensor_data.json"
 }
