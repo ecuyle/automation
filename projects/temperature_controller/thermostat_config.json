@@ -2,7 +2,8 @@
     "sensor": 2302,
     "sensor_pin": 17,
     "relay_pin": 27,
-    "min_temp": 68.0,
-    "max_temp": 70.0,
+    "min_temp": 70.0,
+    "max_temp": 72.0,
+    "active_hours": [[0, 1], [7, 9], [20, 22]],
     "log_file": "sensor_data.json"
 }

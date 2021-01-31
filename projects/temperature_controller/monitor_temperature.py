@@ -16,7 +16,7 @@ def initialize_log_file_if_needed(log_file):
     if os.path.isfile(log_file):
         return
 
-    write_json({ data: [] }, log_file)
+    write_json({ "data": [] }, log_file)
 
 def main():
     try:
@@ -29,6 +29,7 @@ def main():
         with open('thermostat_config.json') as config_file:
             config = json.load(config_file)
             print(config)
+            active_hours = config.get('active_hours')
             sensor_type = config.get('sensor')
             sensor_pin = config.get('sensor_pin')
             relay_pin = config.get('relay_pin')
@@ -46,7 +47,10 @@ def main():
 
         initialize_log_file_if_needed(log_file)
 
-        thermostat = Thermostat(heater, sensor, min_temp=min_temp, max_temp=max_temp, log_file=log_file)
+        thermostat = Thermostat(heater, sensor, min_temp, max_temp, {
+            "log_file": log_file,
+            "active_hours": active_hours,
+        })
         thermostat.start()
     except KeyboardInterrupt:
         thermostat.stop()
