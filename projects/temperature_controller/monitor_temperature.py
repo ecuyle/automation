@@ -71,18 +71,22 @@ def main():
             print(f'Config updated at {event.src_path}')
             config = get_json_config(path_to_config)
             print(config)
+            new_log_file = config.get('log_file')
+            path_to_log_file = os.path.join(pathlib.Path(__file__).parent.absolute(), new_log_file)
+            initialize_log_file_if_needed(path_to_log_file)
+
             # todo: create pick util to create these options in a more
             # standardized way
             thermostat.update_options({
                 'active_hours': config.get('active_hours'),
                 'cache_size': config.get('cache_size'),
-                'log_file': config.get('log_file'),
+                'log_file': new_log_file,
                 'max_temp': config.get('max_temp'),
                 'min_temp': config.get('min_temp'),
                 'polling_interval': config.get('polling_interval'),
             })
 
-        event_handler = PatternMatchingEventHandler(patterns="*.json$", ignore_patterns="*.swp", ignore_directories=True, case_sensitive=True)
+        event_handler = PatternMatchingEventHandler(patterns="*", ignore_patterns="", ignore_directories=True, case_sensitive=True)
         event_handler.on_modified = on_config_update
         observer.schedule(event_handler, path_to_config_dir, recursive=True)
         observer.start()
